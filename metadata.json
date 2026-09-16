@@ -1,0 +1,6 @@
+{
+  "name": "lukaAI",
+  "description": "Plateforme intelligente de découverte locale, comparateur d'établissements et compatibilité Mobile Money & Cartes bancaires en Afrique de l'Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
